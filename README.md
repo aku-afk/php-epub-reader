@@ -10,5 +10,6 @@ beberapa persyaratan :
 
 catatan :
 ```
+  [!] Masih ribet untuk khalayak umum
   [!] Bekerja pada file .epub dari "bookcreator.com"
 ```
