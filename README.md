@@ -15,4 +15,6 @@ catatan :
 ```
 
 Tampilan :
-![image](https://user-images.githubusercontent.com/64795908/154493942-c38664f4-bc4c-4b37-b8c7-fb194c232e00.png)
+![image](https://user-images.githubusercontent.com/64795908/154494738-877d66d5-857e-4271-8d5f-62f6ed72a3b7.png)
+![image](https://user-images.githubusercontent.com/64795908/154494763-d57cf6dc-c5a6-4d50-9c7c-f7d52bca8718.png)
+
