@@ -3,9 +3,7 @@
 beberapa persyaratan :
 ```
 - Membutuhkan web server atau php server
-- Bekerja di hampir seluruh perangkat yang dapat
-  menjalankan web server maupun php server
-- Tampilan nyaman di perangkat desktop daripada perangkat mobibe
+- Mengerti dasar keilmuan tentang konfigurasi web server / php server
 ```
 
 Tata cara :
@@ -22,6 +20,12 @@ Tata cara :
 
 catatan :
 ```
+  [+] Bekerja di hampir seluruh perangkat yang dapat
+      menjalankan web server maupun php server
+  [+] Tampilan nyaman di perangkat desktop daripada perangkat mobibe
+
+----------------------------------------------------------------
+
   [!] Masih ribet untuk khalayak umum
   [!] Bekerja pada file .epub dari "bookcreator.com"
 ```
