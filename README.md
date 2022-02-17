@@ -1,4 +1,4 @@
-# PHP EPUB READER - [UNTUK_BELAJAR]
+# PHP EPUB READER - [SINAU]
 
 beberapa persyaratan :
 ```
