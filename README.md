@@ -3,7 +3,7 @@
 beberapa persyaratan :
 ```
 - Membutuhkan web server atau php server
-- Mengerti dasar keilmuan tentang konfigurasi web server / php server
+- Mengerti dasar keilmuan tentang konfigurasi web server atau php server
 ```
 
 Tata cara :
