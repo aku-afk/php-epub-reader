@@ -8,6 +8,18 @@ beberapa persyaratan :
 - Tampilan nyaman di perangkat desktop daripada perangkat mobibe
 ```
 
+Tata cara :
+```
+1. Rename file extention dari .epub ke .zip
+2. Ekstrak file .zip hasil rename tadi
+3. Masukkan file "index.php" dari proyek ini ke folder yang di dalamnya
+   berisi file "mimetype" dan 2 sub folder (folder "OEBPS" dan folder "META-INF")
+4. Jalankan web server atau php server dengan folder root sama dengan
+   folder lokasi file "index.php"
+5. Buka localhost web server yang telah berjalan di browser
+6. Selesai
+```
+
 catatan :
 ```
   [!] Masih ribet untuk khalayak umum
