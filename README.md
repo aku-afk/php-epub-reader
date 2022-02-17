@@ -24,7 +24,7 @@ catatan :
       menjalankan web server maupun php server
   [+] Tampilan nyaman di perangkat desktop daripada perangkat mobibe
 
-----------------------------------------------------------------
+  ----------------------------------------------------------------
 
   [!] Masih ribet untuk khalayak umum
   [!] Bekerja pada file .epub dari "bookcreator.com"
