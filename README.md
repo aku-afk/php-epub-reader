@@ -27,7 +27,7 @@ catatan :
   ----------------------------------------------------------------
 
   [!] Masih ribet untuk khalayak umum
-  [!] Bekerja pada file .epub dari "bookcreator.com"
+  [!] Bekerja pada file .epub dari "<a href="https://bookcreator.com/" alt="bookcreator.com">bookcreator.com</a>"
 ```
 
 Tampilan :
